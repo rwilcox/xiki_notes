@@ -1,0 +1,11 @@
+> Characters: Leading
+
+$ : runs a shell script command. Run by pressing Enter at the end
+^ : Note mode stuff. Can filter notes or can list them all. Run by pressing Control-X at the end
+= : (New???) file reference. Can make a new file at the specified location. Run by pressing Enter at the end
+! : execute following code as Ruby. Run by pressing Control-X at end
+p : like ! but prints output. Run by pressing Control-X at end
+
+Source: my own experimentation and
+https://github.com/thams/xiki/commit/194680a1fa8aed2bd909a231c9aca61635275a1d
+

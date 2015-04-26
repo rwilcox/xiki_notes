@@ -1,0 +1,26 @@
+> Creating Notes: The Basics 
+Umm what does this line do??
+
+So enter =~/xiki/notes/creating_notes.notes (or whatever the name of your file is) then hit control-X.
+
+This will bring up an emacs buffer. Type your text then save it.
+
+(How to save it: Control-K then navigate down to window and select save. Still learning...)
+
+> Creating Notes: The Format
+
+Title (single level of titles) must begin with a > as it's first character **and** include a colon.
+
+>>Do subheads work? The Answer: Maybe
+
+Except you can't have a space between the two greater thans and the text, unlike the headlines
+
+> Going Back: The Basics
+PS ESCAPE will go back
+
+> Searching Notes: The Basics
+Type the caret and Control-X to expand it.
+
+> Navigating Notes: Control-T for tasks then first letter of given menu options
+
+And that's it!
